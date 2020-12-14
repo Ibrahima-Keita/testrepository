@@ -1,2 +1,2 @@
-# testrepository1
+# testrepository
 My first repository creation
